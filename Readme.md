@@ -1,5 +1,5 @@
 # Lab 1: RPC Implementation on AWS EC2
-## Video link: https://docs.google.com/videos/d/1tuga3L940IQUg5qWzP_Fqjq-oMsgaqiCVLdov2XUPQc/edit?usp=sharing
+## Video link: [https://docs.google.com/videos/d/1tuga3L940IQUg5qWzP_Fqjq-oMsgaqiCVLdov2XUPQc/edit?usp=sharing](https://docs.google.com/videos/d/1G_KkebVBt8KijHSq4DjAxU_JCAPOH3O9g0Y_oJ2_4jo/edit?usp=sharing)
 ## Project Overview
 Simple RPC system on two AWS EC2 instances.
 
